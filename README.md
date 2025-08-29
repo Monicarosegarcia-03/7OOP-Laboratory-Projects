@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Monicarosegarcia-03/7OOP-Laboratory-Projects/blob/cbc7d92d7dc21ab7c0ac1d1c00c465b9a110f859/87df95a9-9a5d-4581-9655-a4ee1beeed9d.jpg" width="190" height="180" style="border-radius:50%;" />
+  <img src="https://github.com/Monicarosegarcia-03/7OOP-Laboratory-Projects/blob/9eaa5fc347716ad78310c19985f545d9e3019d5c/Images/ef37f992-026e-417e-92ff-35b217bff179.jpg" width="190" height="180" style="border-radius:50%;" />
 </p>
 
 ---
