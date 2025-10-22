@@ -35,7 +35,7 @@ I’m a Computer Science student who loves learning new things. I enjoy explorin
 
 ## 💻 My Projects 💻  
 - 🧪 *MIDTERM*  
-  - MIDTERM LAB TASK 1: 📂 Object-Oriented Analysis  
+  - MIDTERM LAB TASK 1: 📂 Object-Oriented Analysis  https://sg.docworkspace.com/d/sIFGGt9OaArST4ccG?sa=601.1074
 - 🔥 More projects coming soon...  
 
 ---
