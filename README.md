@@ -35,12 +35,12 @@ I’m a Computer Science student who loves learning new things. I enjoy explorin
 
 ## 💻 My Projects 💻  
 - 🧪 *MIDTERM*  
-  - MIDTERM PAIRED TASK 1: Object-Oriented Analysis  https://sg.docworkspace.com/d/sIDCGt9OaAp-Y4ccG
-  - MIDTERM LAB TASK 1: https://sg.docworkspace.com/d/sIFGGt9OaArST4ccG
-  - MIDTERM LAB TASK 2: Using Loops and Functions https://sg.docworkspace.com/d/sIKqGt9OaAoWZ4ccG
-  - MIDTERM LAB TASK 3: Using List Collection Types https://sg.docworkspace.com/d/sIOOGt9OaAuuc4ccG
-  - MIDTERM LAB TASK 4: Using Dictionaries https://sg.docworkspace.com/d/sIPKGt9OaAtKe4ccG
-  - MIDTERM LAB TASK 5: Creating Class and Instantiating Object in Python https://sg.docworkspace.com/d/sIL2Gt9OaArSq4ccG
+  - **MIDTERM PAIRED TASK 1:** [Object-Oriented Analysis](https://sg.docworkspace.com/d/sIDCGt9OaAp-Y4ccG)  
+  - **MIDTERM LAB TASK 1:** [View Document](https://sg.docworkspace.com/d/sIFGGt9OaArST4ccG)  
+  - **MIDTERM LAB TASK 2:** [Using Loops and Functions](https://sg.docworkspace.com/d/sIKqGt9OaAoWZ4ccG)  
+  - **MIDTERM LAB TASK 3:** [Using List Collection Types](https://sg.docworkspace.com/d/sIOOGt9OaAuuc4ccG)  
+  - **MIDTERM LAB TASK 4:** [Using Dictionaries](https://sg.docworkspace.com/d/sIPKGt9OaAtKe4ccG)  
+  - **MIDTERM LAB TASK 5:** [Creating Class and Instantiating Object in Python](https://sg.docworkspace.com/d/sIL2Gt9OaArSq4ccG)  
 - 🔥 More projects coming soon...  
 
 ---
@@ -79,3 +79,5 @@ I’m a Computer Science student who loves learning new things. I enjoy explorin
 - 📸 [Instagram](https://www.instagram.com/itsacinomxvs?igsh=ZnI5MGVzNWs4Y2l2)  
 
 ---
+
+<p align="center">💖 Thank you for visiting my profile! 💖</p>
