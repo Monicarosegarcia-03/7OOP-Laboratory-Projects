@@ -38,7 +38,7 @@ I’m a Computer Science student who loves learning new things. I enjoy explorin
   - **MIDTERM PAIRED TASK 1:** [Object-Oriented Analysis](https://sg.docworkspace.com/d/sIDCGt9OaAp-Y4ccG)  
   - **MIDTERM LAB TASK 1:** [View Document](midterms/m_task1.pdf)  
   - **MIDTERM LAB TASK 2:** [View Document](midterms/Garcia (1).pdf)  
-  - **MIDTERM LAB TASK 3:** [Using List Collection Types](midterms/Garcia (1) (1) (1).pdf)  
+  - **MIDTERM LAB TASK 3:** [view Document](midterms/Garcia (1) (1) (1).pdf)  
   - **MIDTERM LAB TASK 4:** [Using Dictionaries](midterms/MIDTERMLABTASK4-GARCIA.pdf)  
   - **MIDTERM LAB TASK 5:** [Creating Class and Instantiating Object in Python](https://sg.docworkspace.com/d/sIL2Gt9OaArSq4ccG)  
 - 🧪 *FINALS*
