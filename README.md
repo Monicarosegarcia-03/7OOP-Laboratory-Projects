@@ -40,7 +40,7 @@ I’m a Computer Science student who loves learning new things. I enjoy explorin
   - **MIDTERM LAB TASK 2:** [View Document](midterms/Garcia (1).pdf)  
   - **MIDTERM LAB TASK 3:** [view Document](midterms/Garcia (1) (1) (1).pdf)  
   - **MIDTERM LAB TASK 4:** [View Documents](midterms/MIDTERMLABTASK4-GARCIA (2) (1).pdf)  
-  - **MIDTERM LAB TASK 5:** [Creating Class and Instantiating Object in Python](https://sg.docworkspace.com/d/sIL2Gt9OaArSq4ccG)  
+  - **MIDTERM LAB TASK 5:** [View Document](midterms/Garcia (2) (1).pdf)  
 - 🧪 *FINALS*
   -
 
