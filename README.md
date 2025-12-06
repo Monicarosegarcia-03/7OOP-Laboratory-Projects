@@ -35,7 +35,7 @@ I’m a Computer Science student who loves learning new things. I enjoy explorin
 
 ## 💻 My Projects 💻  
 - 🧪 *MIDTERM*  
-  - **MIDTERM PAIRED TASK 1:** [View Document](midterms/Garcia (2) (1).pdf)  
+  - **MIDTERM PAIRED TASK 1:** [view Document](midterms/Garcia (2) (1).pdf)  
   - **MIDTERM LAB TASK 1:** [View Document](midterms/m_task1.pdf)  
   - **MIDTERM LAB TASK 2:** [View Document](midterms/Garcia (1).pdf)  
   - **MIDTERM LAB TASK 3:** [view Document](midterms/Garcia (1) (1) (1).pdf)  
